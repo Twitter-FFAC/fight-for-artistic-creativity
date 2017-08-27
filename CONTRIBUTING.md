@@ -1,5 +1,6 @@
 # 協力
 
+[LOCAL-COLLABORATORS]: COLLABORATORS.md
 [LOCAL-ISSUE-TEMPLATE]: ISSUE_TEMPLATE.md
 [LOCAL-PULL-REQUEST-TEMPLATE]: PULL_REQUEST_TEMPLATE.md
 <!-- end of link references field -->
@@ -59,3 +60,7 @@ Issueのテンプレートは[こちら][LOCAL-ISSUE-TEMPLATE]をご覧下さい
 ## Pull Request
 
 Pull Requestのテンプレートは[こちら][LOCAL-PULL-REQUEST-TEMPLATE]をご覧下さい。
+
+## 協力者の方々
+
+協力者の方々に関しては[こちら][LOCAL-COLLABORATORS]をご覧下さい。
