@@ -1,6 +1,7 @@
 # Fight for artistic creativity
 
 [GITHUB-JOIN]: https://github.com/join
+[LOCAL-CONTRIBUTING]: CONTRIBUTING.md
 [LOCAL-FIGURES]: assets/figures.pdf
 [LOCAL-LICENSE]: LICENSE
 [TWITTER-ACID-CHICKEN]: https://twitter.com/acid_chicken
@@ -49,6 +50,8 @@
 GitHubのアカウントを持っていない方はお手数ですが、[こちら][GITHUB-JOIN]からアカウントを作成して下さい。
 アカウントの作成は無料です。
 どうしてもアカウントの作成が困難である場合は、[硫酸鶏のTwitter][TWITTER-ACID-CHICKEN]へご連絡下さい。
+
+協力方法に関しての詳細は、[CONTRIBUTING.md][LOCAL-CONTRIBUTING]をご覧下さい。
 
 ## ライセンス
 
