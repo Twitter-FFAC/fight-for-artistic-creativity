@@ -1,6 +1,7 @@
 # Fight for artistic creativity
 
 [GITHUB-JOIN]: https://github.com/join
+[LOCAL-FIGURES]: assets/figures.pdf
 [LOCAL-LICENSE]: LICENSE
 [TWITTER-ACID-CHICKEN]: https://twitter.com/acid_chicken
 <!-- end of link references field -->
@@ -20,6 +21,8 @@
 
 詳細な行動内容に関しては次章 *行動* をお読み下さい。
 
+この章に関しては、[こちら][LOCAL-FIGURES]のPDFコンテンツの1ページにて図示しておりますので、是非ご覧下さい。
+
 ## 行動
 
 このプロジェクトは、次の2つの行動によって構成されます。
@@ -30,6 +33,8 @@
   * 多数のアカウントからブロックされたアカウントは凍結され、同一IPアドレスからのアカウントはしだいに規制されます。
 
 これらの活動に賛同及び協力して頂ける方は次章 *協力方法* をお読み下さい。
+
+この章に関しては、[こちら][LOCAL-FIGURES]のPDFコンテンツの2ページにて図示しておりますので、是非ご覧下さい。
 
 ## 協力方法
 
