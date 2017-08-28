@@ -43,7 +43,7 @@
 
 ## 協力方法
 
-***[mnmonzk][GITHUB-MNMONZK]氏の提供する[ウェブサイト上で簡単にブロックリストをインポートできるサービス][GITHUB-MNMONZK-FFAC-WEB]がホストされています。(リポジトリはこちら [mnmonzk/ffac-web][GITHUB-MNMONZK-FFAC-WEB])***
+***[mnmonzk][GITHUB-MNMONZK]氏の提供する[ウェブサイト上で簡単にブロックリストをインポートできるサービス][GITHUB-MNMONZK-FFAC-WEB-HOST]がホストされています。(リポジトリはこちら [mnmonzk/ffac-web][GITHUB-MNMONZK-FFAC-WEB])***
 詳細は[こちら][LOCAL-COLLABORATORS]をご覧下さい。
 
 このプロジェクトの進行ですが、当然ながらTwitterの利用規約を尊守することが第一ですので、このプロジェクトは一人の手でどうにかなるようなものではありません。
