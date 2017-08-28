@@ -8,8 +8,23 @@
 [LOCAL-CONTRIBUTING]: CONTRIBUTING.md
 [LOCAL-FIGURES]: assets/figures.pdf
 [LOCAL-LICENSE]: LICENSE
+[SHIELDS-GITHUB-CONTRIBUTORS]: https://img.shields.io/github/contributors/Twitter-FFAC/fight-for-artistic-creativity.svg
+[SHIELDS-GITHUB-FORKS]: https://img.shields.io/github/forks/Twitter-FFAC/fight-for-artistic-creativity.svg
+[SHIELDS-GITHUB-ISSUES-OPEN]: https://img.shields.io/github/issues/Twitter-FFAC/fight-for-artistic-creativity.svg
+[SHIELDS-GITHUB-ISSUES-CLOSED]: https://img.shields.io/github/issues-closed/Twitter-FFAC/fight-for-artistic-creativity.svg
+[SHIELDS-GITHUB-LICENSE]: https://img.shields.io/github/license/Twitter-FFAC/fight-for-artistic-creativity.svg
+[SHIELDS-GITHUB-STARS]: https://img.shields.io/github/stars/Twitter-FFAC/fight-for-artistic-creativity.svg
+[SHIELDS-GITHUB-WATCHERS]: https://img.shields.io/github/watchers/Twitter-FFAC/fight-for-artistic-creativity.svg
 [TWITTER-ACID-CHICKEN]: https://twitter.com/acid_chicken
 <!-- end of link references field -->
+
+![SHIELDS-GITHUB-LICENSE]
+![SHIELDS-GITHUB-WATCHERS]
+![SHIELDS-GITHUB-STARS]
+![SHIELDS-GITHUB-FORKS]
+![SHIELDS-GITHUB-CONTRIBUTORS]
+![SHIELDS-GITHUB-ISSUES-OPEN]
+![SHIELDS-GITHUB-ISSUES-CLOSED]
 
 *Twitterをディストピアにしないために、我々ができること。*
 
