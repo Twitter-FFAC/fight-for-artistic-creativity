@@ -1,6 +1,10 @@
 # Fight for artistic creativity
 
 [GITHUB-JOIN]: https://github.com/join
+[GITHUB-MNMONZK]: https://github.com/mnmonzk
+[GITHUB-MNMONZK-FFAC-WEB]: https://github.com/mnmonzk/ffac-web
+[GITHUB-MNMONZK-FFAC-WEB-HOST]: https://ffac.mnmonzk.f5.si/
+[LOCAL-COLLABORATORS]: COLLABORATORS.md
 [LOCAL-CONTRIBUTING]: CONTRIBUTING.md
 [LOCAL-FIGURES]: assets/figures.pdf
 [LOCAL-LICENSE]: LICENSE
@@ -38,6 +42,9 @@
 この章に関しては、[こちら][LOCAL-FIGURES]のPDFコンテンツの2ページにて図示しておりますので、是非ご覧下さい。
 
 ## 協力方法
+
+***[mnmonzk][GITHUB-MNMONZK]氏の提供する[ウェブサイト上で簡単にブロックリストをインポートできるサービス][GITHUB-MNMONZK-FFAC-WEB]がホストされています。(リポジトリはこちら [mnmonzk/ffac-web][GITHUB-MNMONZK-FFAC-WEB])***
+詳細は[こちら][LOCAL-COLLABORATORS]をご覧下さい。
 
 このプロジェクトの進行ですが、当然ながらTwitterの利用規約を尊守することが第一ですので、このプロジェクトは一人の手でどうにかなるようなものではありません。
 **そのため、このプロジェクトに関して皆様にご協力を仰ぐ形となっております。**
