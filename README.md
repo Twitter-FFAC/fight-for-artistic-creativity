@@ -1,9 +1,9 @@
 # Fight for artistic creativity
 
+[GITHUB-FFAC-WEB]: https://github.com/Twitter-FFAC/ffac-web
 [GITHUB-JOIN]: https://github.com/join
 [GITHUB-MNMONZK]: https://github.com/mnmonzk
-[GITHUB-MNMONZK-FFAC-WEB]: https://github.com/mnmonzk/ffac-web
-[GITHUB-MNMONZK-FFAC-WEB-HOST]: https://ffac.mnmonzk.f5.si/
+[GITHUB-RIKU6460]: https://github.com/riku6460
 [LOCAL-COLLABORATORS]: COLLABORATORS.md
 [LOCAL-CONTRIBUTING]: CONTRIBUTING.md
 [LOCAL-FIGURES]: assets/figures.pdf
@@ -15,6 +15,8 @@
 [SHIELDS-GITHUB-LICENSE]: https://img.shields.io/github/license/Twitter-FFAC/fight-for-artistic-creativity.svg
 [SHIELDS-GITHUB-STARS]: https://img.shields.io/github/stars/Twitter-FFAC/fight-for-artistic-creativity.svg
 [SHIELDS-GITHUB-WATCHERS]: https://img.shields.io/github/watchers/Twitter-FFAC/fight-for-artistic-creativity.svg
+[SHIELDS-WEBSITE-MNMONZK]: https://img.shields.io/website-online-offline-green-red/https/ffac.mnmonzk.f5.si.svg?label=status
+[SHIELDS-WEBSITE-RIKU6460]: https://img.shields.io/website-online-offline-green-red/https/ffac.riku6460.tk.svg?label=status
 [TWITTER-ACID-CHICKEN]: https://twitter.com/acid_chicken
 <!-- end of link references field -->
 
@@ -58,7 +60,13 @@
 
 ## 協力方法
 
-***[mnmonzk][GITHUB-MNMONZK]氏の提供する[ウェブサイト上で簡単にブロックリストをインポートできるサービス][GITHUB-MNMONZK-FFAC-WEB-HOST]がホストされています。(リポジトリはこちら [mnmonzk/ffac-web][GITHUB-MNMONZK-FFAC-WEB])***
+***ウェブサイト上で簡単にブロックリストをインポートできるサービスである[ffac-web][GITHUB-FFAC-WEB]が[mnmonzk][GITHUB-MNMONZK]を主導として開発され、以下でホストされています。***
+
+|                     Region | Status                      | URL                          |
+|---------------------------:|:----------------------------|:-----------------------------|
+|  [mnmonzk][GITHUB-MNMONZK] | ![SHIELDS-WEBSITE-MNMONZK]  | <https://ffac.mnmonzk.f5.si> |
+| [riku6460][GITHUB-MNMONZK] | ![SHIELDS-WEBSITE-RIKU6460] | <https://ffac.riku6460.tk>   |
+
 詳細は[こちら][LOCAL-COLLABORATORS]をご覧下さい。
 
 このプロジェクトの進行ですが、当然ながらTwitterの利用規約を尊守することが第一ですので、このプロジェクトは一人の手でどうにかなるようなものではありません。
