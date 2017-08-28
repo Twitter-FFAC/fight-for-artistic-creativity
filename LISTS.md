@@ -1,5 +1,6 @@
 # リスト一覧
 
+[LOCAL-LISTS]: assets/lists.pdf
 [GITHUB-BLACK-CSV]: lists/blacklist.csv
 [GITHUB-BLACK-JSON]: lists/blacklist.json
 [GITHUB-DARK-GRAY-CSV]: lists/darkgraylist.csv
@@ -63,6 +64,8 @@
   <dd>掲載検証が行われた結果、問題点が非常に少なく、安全なユーザーであると確認されたアカウント群。</dd>
 
 </dl>
+
+この章に関しては、[こちら][LOCAL-LISTS]のPDFコンテンツにて図示しておりますので、是非ご覧下さい。
 
 ## リストリンク
 
