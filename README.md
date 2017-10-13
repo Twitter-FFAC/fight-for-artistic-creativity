@@ -62,10 +62,10 @@
 
 ***ウェブサイト上で簡単にブロックリストをインポートできるサービスである[ffac-web][GITHUB-FFAC-WEB]が[mnmonzk][GITHUB-MNMONZK]を主導として開発され、以下でホストされています。***
 
-|                     Region | Status                      | URL                          |
-|---------------------------:|:----------------------------|:-----------------------------|
-|  [mnmonzk][GITHUB-MNMONZK] | ![SHIELDS-WEBSITE-MNMONZK]  | <https://ffac.mnmonzk.f5.si> |
-| [riku6460][GITHUB-MNMONZK] | ![SHIELDS-WEBSITE-RIKU6460] | <https://ffac.riku6460.space>   |
+|                     Region | Status                      | URL                           |
+|---------------------------:|:----------------------------|:------------------------------|
+|  [mnmonzk][GITHUB-MNMONZK] | ![SHIELDS-WEBSITE-MNMONZK]  | <https://ffac.mnmonzk.f5.si>  |
+| [riku6460][GITHUB-MNMONZK] | ![SHIELDS-WEBSITE-RIKU6460] | <https://ffac.riku6460.space> |
 
 詳細は[こちら][LOCAL-COLLABORATORS]をご覧下さい。
 
