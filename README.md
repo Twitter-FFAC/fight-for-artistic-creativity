@@ -16,7 +16,7 @@
 [SHIELDS-GITHUB-STARS]: https://img.shields.io/github/stars/Twitter-FFAC/fight-for-artistic-creativity.svg
 [SHIELDS-GITHUB-WATCHERS]: https://img.shields.io/github/watchers/Twitter-FFAC/fight-for-artistic-creativity.svg
 [SHIELDS-WEBSITE-MNMONZK]: https://img.shields.io/website-online-offline-green-red/https/ffac.mnmonzk.f5.si.svg?label=status
-[SHIELDS-WEBSITE-RIKU6460]: https://img.shields.io/website-online-offline-green-red/https/ffac.riku6460.tk.svg?label=status
+[SHIELDS-WEBSITE-RIKU6460]: https://img.shields.io/website-online-offline-green-red/https/ffac.riku6460.space.svg?label=status
 [TWITTER-ACID-CHICKEN]: https://twitter.com/acid_chicken
 <!-- end of link references field -->
 
@@ -65,7 +65,7 @@
 |                     Region | Status                      | URL                          |
 |---------------------------:|:----------------------------|:-----------------------------|
 |  [mnmonzk][GITHUB-MNMONZK] | ![SHIELDS-WEBSITE-MNMONZK]  | <https://ffac.mnmonzk.f5.si> |
-| [riku6460][GITHUB-MNMONZK] | ![SHIELDS-WEBSITE-RIKU6460] | <https://ffac.riku6460.tk>   |
+| [riku6460][GITHUB-MNMONZK] | ![SHIELDS-WEBSITE-RIKU6460] | <https://ffac.riku6460.space>   |
 
 詳細は[こちら][LOCAL-COLLABORATORS]をご覧下さい。
 
