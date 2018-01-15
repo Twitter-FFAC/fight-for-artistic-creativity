@@ -6,7 +6,7 @@
 [GITHUB-MNMONZK]: https://github.com/mnmonzk
 [GITHUB-MNMONZK-HOST-FFAC-WEB]: https://ffac.mnmonzk.f5.si
 [GITHUB-RIKU6460]: https://github.com/riku6460
-[GITHUB-RIKU6460-HOST-FFAC-WEB]: https://ffac.riku6460.space
+[GITHUB-RIKU6460-HOST-FFAC-WEB]: https://ffac.riku.pw
 [HATENA-BLOG-SUGUNIKESE]: http://sugunikese.hatenablog.com
 [HATENA-BLOG-SUGUNIKESE-ENTRY-2017-08-26-224556]: http://sugunikese.hatenablog.com/entry/2017/08/26/224556
 [HATENA-BLOG-SUGUNIKESE-ENTRY-2017-08-27-201049]: http://sugunikese.hatenablog.com/entry/2017/08/27/201049
