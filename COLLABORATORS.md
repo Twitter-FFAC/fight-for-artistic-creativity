@@ -7,6 +7,8 @@
 [GITHUB-MNMONZK-HOST-FFAC-WEB]: https://ffac.mnmonzk.f5.si
 [GITHUB-RIKU6460]: https://github.com/riku6460
 [GITHUB-RIKU6460-HOST-FFAC-WEB]: https://ffac.riku.pw
+[GITHUB-MAK0TIA]: https://github.com/mak0tia
+[GITHUB-MAK0TIA-HOST-FFAC-WEB]: https://ffac.makotia.me
 [HATENA-BLOG-SUGUNIKESE]: http://sugunikese.hatenablog.com
 [HATENA-BLOG-SUGUNIKESE-ENTRY-2017-08-26-224556]: http://sugunikese.hatenablog.com/entry/2017/08/26/224556
 [HATENA-BLOG-SUGUNIKESE-ENTRY-2017-08-27-201049]: http://sugunikese.hatenablog.com/entry/2017/08/27/201049
@@ -39,11 +41,19 @@
 
 ## [riku6460][GITHUB-RIKU6460]
 
-> 組織外コラボレーター
+> 組織メンバー
 
 ### ホスト
 
 * [a region of ffac-web][GITHUB-RIKU6460-HOST-FFAC-WEB]
+
+## [mak0tia][GITHUB-MAK0TIA]
+
+> 組織メンバー
+
+### ホスト
+
+* [a region of ffac-web][GITHUB-MAK0TIA-HOST-FFAC-WEB]
 
 ## [Yuukiyan][TWITTER-YUUKIYAN]
 
