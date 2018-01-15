@@ -4,6 +4,7 @@
 [GITHUB-JOIN]: https://github.com/join
 [GITHUB-MNMONZK]: https://github.com/mnmonzk
 [GITHUB-RIKU6460]: https://github.com/riku6460
+[GITHUB-MAK0TIA]: https://github.com/mak0tia
 [LOCAL-COLLABORATORS]: COLLABORATORS.md
 [LOCAL-CONTRIBUTING]: CONTRIBUTING.md
 [LOCAL-FIGURES]: assets/figures.pdf
@@ -17,6 +18,7 @@
 [SHIELDS-GITHUB-WATCHERS]: https://img.shields.io/github/watchers/Twitter-FFAC/fight-for-artistic-creativity.svg
 [SHIELDS-WEBSITE-MNMONZK]: https://img.shields.io/website-online-offline-green-red/https/ffac.mnmonzk.f5.si.svg?label=status
 [SHIELDS-WEBSITE-RIKU6460]: https://img.shields.io/website-online-offline-green-red/https/ffac.riku.pw.svg?label=status
+[SHIELDS-WEBSITE-MAK0TIA]: https://img.shields.io/website-online-offline-green-red/https/ffac.makotia.me.svg?label=status
 [TWITTER-ACID-CHICKEN]: https://twitter.com/acid_chicken
 <!-- end of link references field -->
 
@@ -29,6 +31,8 @@
 ![SHIELDS-GITHUB-ISSUES-CLOSED]
 
 *Twitterをディストピアにしないために、我々ができること。*
+
+***近日急増しているグロ画像テロに急遽対応しました。一部の文章が従来のまま変更されていませんが、ブラックリストであることには変わりありませんのでそのままご利用下さい。***
 
 近日、Twitterにおける自動凍結システムの弱点を突いた工作的な通報行為で、イラストレーターをはじめとした、様々な方のアカウントが不当に凍結されています。
 私は、この一連の行為に対して憤りを感じたため、これ以上の被害を増やさないためにも、このような形で行動に出ることにしました。
@@ -66,6 +70,7 @@
 |----------------------------:|:----------------------------|:-----------------------------|
 |  [mnmonzk][GITHUB-MNMONZK]  | ![SHIELDS-WEBSITE-MNMONZK]  | <https://ffac.mnmonzk.f5.si> |
 | [riku6460][GITHUB-RIKU6460] | ![SHIELDS-WEBSITE-RIKU6460] | <https://ffac.riku.pw>       |
+|  [mak0tia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-MAK0TIA]  | <https://ffac.makotia.me>    |
 
 詳細は[こちら][LOCAL-COLLABORATORS]をご覧下さい。
 
