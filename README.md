@@ -2,7 +2,7 @@
 
 [GITHUB-FFAC-WEB]: https://github.com/Twitter-FFAC/ffac-web
 [GITHUB-JOIN]: https://github.com/join
-[GITHUB-MNMONZK]: https://github.com/mnmonzk
+[GITHUB-NIROT1R]: https://github.com/nirot1r
 [GITHUB-RIKU6460]: https://github.com/riku6460
 [GITHUB-MAK0TIA]: https://github.com/mak0tia
 [LOCAL-COLLABORATORS]: COLLABORATORS.md
@@ -16,7 +16,7 @@
 [SHIELDS-GITHUB-LICENSE]: https://img.shields.io/github/license/Twitter-FFAC/fight-for-artistic-creativity.svg
 [SHIELDS-GITHUB-STARS]: https://img.shields.io/github/stars/Twitter-FFAC/fight-for-artistic-creativity.svg
 [SHIELDS-GITHUB-WATCHERS]: https://img.shields.io/github/watchers/Twitter-FFAC/fight-for-artistic-creativity.svg
-[SHIELDS-WEBSITE-MNMONZK]: https://img.shields.io/website-online-offline-green-red/https/ffac.mnmonzk.f5.si.svg?label=status
+[SHIELDS-WEBSITE-NIROT1R]: https://img.shields.io/website-online-offline-green-red/https/ffac.g-second.net.svg?label=status
 [SHIELDS-WEBSITE-RIKU6460]: https://img.shields.io/website-online-offline-green-red/https/ffac.riku.pw.svg?label=status
 [SHIELDS-WEBSITE-MAK0TIA]: https://img.shields.io/website-online-offline-green-red/https/ffac.makotia.me.svg?label=status
 [TWITTER-ACID-CHICKEN]: https://twitter.com/acid_chicken
@@ -64,13 +64,13 @@
 
 ## 協力方法
 
-***ウェブサイト上で簡単にブロックリストをインポートできるサービスである[ffac-web][GITHUB-FFAC-WEB]が@[mnmonzk][GITHUB-MNMONZK]氏を主導として開発され、以下でホストされています。***
+***ウェブサイト上で簡単にブロックリストをインポートできるサービスである[ffac-web][GITHUB-FFAC-WEB]が@[nirot1r][GITHUB-NIROT1R]氏を主導として開発され、以下でホストされています。***
 
-|                      Region | Status                      | URL                          |
-|----------------------------:|:----------------------------|:-----------------------------|
-|  [mnmonzk][GITHUB-MNMONZK]  | ![SHIELDS-WEBSITE-MNMONZK]  | <https://ffac.mnmonzk.f5.si> |
-| [riku6460][GITHUB-RIKU6460] | ![SHIELDS-WEBSITE-RIKU6460] | <https://ffac.riku.pw>       |
-|  [mak0tia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-MAK0TIA]  | <https://ffac.makotia.me>    |
+|                      Region | Status                      | URL                         |
+|----------------------------:|:----------------------------|:----------------------------|
+|  [nirot1r][GITHUB-NIROT1R]  | ![SHIELDS-WEBSITE-NIROT1R]  | <https://ffac.g-second.net> |
+| [riku6460][GITHUB-RIKU6460] | ![SHIELDS-WEBSITE-RIKU6460] | <https://ffac.riku.pw>      |
+|  [mak0tia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-MAK0TIA]  | <https://ffac.makotia.me>   |
 
 詳細は[こちら][LOCAL-COLLABORATORS]をご覧下さい。
 
