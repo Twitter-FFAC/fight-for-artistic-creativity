@@ -6,7 +6,7 @@
 [GITHUB-RIKU6460]: https://github.com/riku6460
 [GITHUB-MAK0TIA]: https://github.com/mak0tia
 [LOCAL-COLLABORATORS]: COLLABORATORS.md
-[LOCAL-CONTRIBUTING]: CONTRIBUTING.md
+[LOCAL-CONTRIBUTING]: .github/CONTRIBUTING.md
 [LOCAL-FIGURES]: assets/figures.pdf
 [LOCAL-LICENSE]: LICENSE
 [SHIELDS-GITHUB-CONTRIBUTORS]: https://img.shields.io/github/contributors/Twitter-FFAC/fight-for-artistic-creativity.svg
