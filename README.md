@@ -2,7 +2,7 @@
 
 [GITHUB-FFAC-WEB]: https://github.com/Twitter-FFAC/ffac-web
 [GITHUB-JOIN]: https://github.com/join
-[GITHUB-MNMONZK]: https://github.com/mnmonzk
+[GITHUB-NIROT1R]: https://github.com/nirot1r
 [GITHUB-RIKU6460]: https://github.com/riku6460
 [GITHUB-MAK0TIA]: https://github.com/mak0tia
 [LOCAL-COLLABORATORS]: COLLABORATORS.md
@@ -64,11 +64,11 @@
 
 ## 協力方法
 
-***ウェブサイト上で簡単にブロックリストをインポートできるサービスである[ffac-web][GITHUB-FFAC-WEB]が@[mnmonzk][GITHUB-MNMONZK]氏を主導として開発され、以下でホストされています。***
+***ウェブサイト上で簡単にブロックリストをインポートできるサービスである[ffac-web][GITHUB-FFAC-WEB]が@[nirot1r][GITHUB-NIROT1R]氏を主導として開発され、以下でホストされています。***
 
 |                      Region | Status                      | URL                          |
 |----------------------------:|:----------------------------|:-----------------------------|
-|  [mnmonzk][GITHUB-MNMONZK]  | ![SHIELDS-WEBSITE-MNMONZK]  | <https://ffac.mnmonzk.f5.si> |
+|  [mnmonzk][GITHUB-NIROT1R]  | ![SHIELDS-WEBSITE-MNMONZK]  | <https://ffac.mnmonzk.f5.si> |
 | [riku6460][GITHUB-RIKU6460] | ![SHIELDS-WEBSITE-RIKU6460] | <https://ffac.riku.pw>       |
 |  [mak0tia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-MAK0TIA]  | <https://ffac.makotia.me>    |
 
