@@ -3,8 +3,8 @@
 [GITHUB-C6H2CL2]: https://github.com/C6H2Cl2
 [GITHUB-FFAC-FFAC-WEB]: https://github.com/Twitter-FFAC/ffac-web
 [GITHUB-FFAC-SPAM-BLOCKER-FOR-ARTISTIC-CREATIVITY-BACKEND]: https://github.com/Twitter-FFAC/Spam-Blocker-for-artistic-creativity-Backend
-[GITHUB-MNMONZK]: https://github.com/mnmonzk
-[GITHUB-MNMONZK-HOST-FFAC-WEB]: https://ffac.mnmonzk.f5.si
+[GITHUB-NIROT1R]: https://github.com/nirot1r
+[GITHUB-NIROT1R-HOST-FFAC-WEB]: https://ffac.g-second.net
 [GITHUB-RIKU6460]: https://github.com/riku6460
 [GITHUB-RIKU6460-HOST-FFAC-WEB]: https://ffac.riku.pw
 [GITHUB-MAK0TIA]: https://github.com/mak0tia
@@ -27,7 +27,7 @@
 
 * [Spam-Blocker-for-artistic-creativity-Backend][GITHUB-FFAC-SPAM-BLOCKER-FOR-ARTISTIC-CREATIVITY-BACKEND] *(transfered ownership)*
 
-## [mnmonzk][GITHUB-MNMONZK]
+## [nirot1r][GITHUB-NIROT1R]
 
 > 組織メンバー
 
@@ -37,7 +37,7 @@
 
 ### ホスト
 
-* [a region of ffac-web][GITHUB-MNMONZK-HOST-FFAC-WEB]
+* [a region of ffac-web][GITHUB-NIROT1R-HOST-FFAC-WEB]
 
 ## [riku6460][GITHUB-RIKU6460]
 
